@@ -125,7 +125,7 @@ describe("Exercício 4 - calcularFrete", () => {
 });
 
 // ---------------------------------------------------------
-// EXERCÍCIO 5 - converterCelsiusParaFahrenheit
+// EXERCÍCIO 5 - converter Celsius, Para Fahrenheit
 // ---------------------------------------------------------
 describe("Exercício 5 - converterCelsiusParaFahrenheit", () => {
     test("caso 1: 0 °C deve retornar 32", () => {
@@ -155,7 +155,7 @@ describe("Exercício 5 - converterCelsiusParaFahrenheit", () => {
 
 // ---------------------------------------------------------
 // EXERCÍCIO 6 - calcularTotal
-// (o Teste D original FALHA; aqui está a versão corrigida)
+// (o Teste D falha; coloquei aqui a versão corrigida)
 // ---------------------------------------------------------
 describe("Exercício 6 - calcularTotal", () => {
     test("Teste A: deve calcular o total corretamente", () => {
@@ -178,7 +178,7 @@ describe("Exercício 6 - calcularTotal", () => {
 
 // ---------------------------------------------------------
 // EXERCÍCIO 7 - validarSenha
-// (o Teste C original FALHA; aqui está a versão corrigida)
+// (o Teste C falha; coloquei aqui a versão corrigida)
 // ---------------------------------------------------------
 describe("Exercício 7 - validarSenha", () => {
     test("Teste A: deve aceitar senha com 8 caracteres", () => {
@@ -201,7 +201,7 @@ describe("Exercício 7 - validarSenha", () => {
 
 // ---------------------------------------------------------
 // EXERCÍCIO 8 - verificarEstoque
-// (o Teste D original FALHA; aqui está a versão corrigida)
+// (o Teste D falha; coloquei aqui a versão corrigida)
 // ---------------------------------------------------------
 describe("Exercício 8 - verificarEstoque", () => {
     test("Teste A: deve aprovar pedido quando há estoque suficiente", () => {
