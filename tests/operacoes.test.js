@@ -1,6 +1,3 @@
-// operacoes.test.js
-// Testes da Missão 171, na ordem dos exercícios (1 a 9).
-
 const {
     calcularDesconto,
     verificarAprovacao,
@@ -231,7 +228,7 @@ describe("Exercício 8 - verificarEstoque", () => {
 
 // ---------------------------------------------------------
 // EXERCÍCIO 9 - calcularMedia
-// (os Testes 4 e 5 originais FALHAM; aqui estão as versões corrigidas)
+// (os Testes 4 e 5 falham; coloquei aqui as versões corrigidas)
 // ---------------------------------------------------------
 describe("Exercício 9 - calcularMedia", () => {
     test("Teste 1: média de 8 e 6 deve ser 7", () => {
